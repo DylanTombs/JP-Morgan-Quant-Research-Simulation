@@ -34,6 +34,8 @@ Outputs PD as the average default rate at the terminal leaf node.
 
 ## Performance Comparison
 
+![Task One Performance](TaskOne.png)
+
 ![Task Two Performance](Task2Performance.png)
 
 • Logistic regression achieved slightly higher accuracy and significantly lower log loss, indicating better probabilistic predictions.
